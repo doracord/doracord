@@ -12,7 +12,7 @@ const About = {
   hi: 'I am a full stack developer based in Japan',
   skills: 'JavaScript / TypeScript / Python / Go',
   links: {
-    website: 'Coming Soon...'
+    website: 'https://doracord.pages.dev/'
   }
 };
 ```
